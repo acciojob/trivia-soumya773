@@ -1,9 +1,19 @@
-div{
- Max-width:600px;
-Margin: 10px;
-Padding: 15px;
- Border-left: 8px solid green;
-Background-color: #f8fffe;
-Font-weight: Bold;
-}
+body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            padding: 20px;
+            background-color: #eef7f6;
+        }
+        .question-container {
+            margin-bottom: 20px;
+        }
+        .quotation {
+            max-width: 600px;
+            margin: 10px auto;
+            padding: 15px;
+            border-left: 8px solid green;
+            background-color: #f8fffe;
+            font-weight: bold;
+            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+        }
 /* Your CSS Code here. */
