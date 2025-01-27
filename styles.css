@@ -1,12 +1,6 @@
-body {
-            font-family: Arial, sans-serif;
-            line-height: 1.6;
-            padding: 20px;
-            background-color: #eef7f6;
-        }
-        .question-container {
-            margin-bottom: 20px;
-        }
+
+       
+        
         .quotation {
             max-width: 600px;
             margin: 10px auto;
@@ -14,6 +8,6 @@ body {
             border-left: 8px solid green;
             background-color: #f8fffe;
             font-weight: bold;
-            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+            
         }
 /* Your CSS Code here. */
